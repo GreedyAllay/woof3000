@@ -1,0 +1,5 @@
+{
+    "name": "Woof",
+    "main": "electron-main.js",
+    "version": "1.47.1"
+}
